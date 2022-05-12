@@ -1,4 +1,4 @@
-<h2> Hey there! I'm @Soumadeep10.</h2>
+<h2> Hey there! I'm Soumadeep Guha.</h2>
 
 # Profile
 
