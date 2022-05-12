@@ -18,13 +18,13 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
-<br/>
+## My Stats
 
-<h3> &nbsp;My Stats </h3>
-(http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Soumadeep10&theme=dracula)
-(http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Soumadeep10&theme=dracula)
-(http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Soumadeep10&theme=dracula)
-(http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Soumadeep10&theme=dracula)
-(http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Soumadeep10&theme=dracula&utcOffset=8)
+<div align="center">
+          
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Soumadeep10&theme=radical" width="800"><br>
 
-<br/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Soumadeep10&theme=radical" width="375">&nbsp;&nbsp;<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Soumadeep10&theme=radical" width="375"><br>
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Soumadeep10&theme=radical" width="375">&nbsp;&nbsp;<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Soumadeep10&theme=radical" width="375">
+</div>
