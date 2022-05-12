@@ -1,5 +1,19 @@
 <h2> Hey there! I'm @Soumadeep10.</h2>
 
+# Profile
+
+<!--[![TWITTER](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/coin_sniper356)
+[![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayan-maiti-5b4332233/)
+[![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mightyayan369@gmail.com)
+[![DISCORD](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/Nemesis606#6770)-->
+[![forthebadge](https://forthebadge.com/images/badges/made-with-markdown.svg)](https://forthebadge.com) &nbsp;
+[![forthebadge](https://forthebadge.com/images/badges/powered-by-overtime.svg)](https://forthebadge.com) &nbsp;
+[![forthebadge](https://forthebadge.com/images/badges/uses-brains.svg)](https://forthebadge.com)
+
+[![GITHUB FOLLOWERS](https://img.shields.io/github/followers/Soumadeep10?style=social)](https://github.com/moonman369")&nbsp; &nbsp;
+![GitHub User's stars](https://img.shields.io/github/stars/Soumadeep10?style=social) &nbsp; &nbsp;
+![PROFILE VISITS](https://visitor-badge.glitch.me/badge?page_id=Soumadeep10.Soumadeep10)<br><br>
+
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies.
