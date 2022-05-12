@@ -5,7 +5,7 @@
 - 🤔 &nbsp; Exploring new technologies.
 - 🎓 &nbsp; Studying EE at TMSL.
 - 🌱 &nbsp; Learning about Machine Learning and Artificial Intelligence.
-- ✍️ &nbsp; C, C++, python are the languages that I can code in.
+- ✍️ &nbsp; C, C++, Python are the languages that I can code in.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
