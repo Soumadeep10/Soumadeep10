@@ -5,7 +5,7 @@
 - 🤔 &nbsp; Exploring new technologies.
 - 🎓 &nbsp; Studying EE at TMSL.
 - 🌱 &nbsp; Learning about Machine Learning and Artificial Intelligence.
-- ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
+- ✍️ &nbsp; C, C++ are the other languages that I can code in.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
