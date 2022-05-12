@@ -34,9 +34,9 @@
 
 <div align="center">
           
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Soumadeep10&theme=radical" width="800"><br>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Soumadeep10&theme=monokai" width="800"><br>
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Soumadeep10&theme=radical" width="375">&nbsp;&nbsp;<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Soumadeep10&theme=radical" width="375"><br>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Soumadeep10&theme=monokai" width="375">&nbsp;&nbsp;<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Soumadeep10&theme=monokai" width="375"><br>
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Soumadeep10&theme=radical" width="375">&nbsp;&nbsp;<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Soumadeep10&theme=radical" width="375">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Soumadeep10&theme=monokai" width="375">&nbsp;&nbsp;<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Soumadeep10&theme=monokai" width="375">
 </div>
