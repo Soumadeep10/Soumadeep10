@@ -21,7 +21,7 @@
 - 🌱 &nbsp; Learning about Machine Learning and Artificial Intelligence.
 - ✍️ &nbsp; C, C++, Python are the languages that I can code in.
 - <p align="center">
-    <img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" />
+<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" />
 </p>
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
